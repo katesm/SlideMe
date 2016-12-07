@@ -1,0 +1,20 @@
+{
+  "name": "SlideMe",
+  "description": "SlideMe",
+  "main": "main.js",
+  "authors": [
+    "Michael Kates"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.5.2"
+  }
+}
